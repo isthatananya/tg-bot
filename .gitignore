@@ -1,0 +1,14 @@
+token.txt
+__pycache__/
+*.py[cod]
+*.env
+.env
+.venv/
+*.log
+
+# VS Code
+.vscode/
+
+# Mac/Linux/Windows OS stuff
+.DS_Store
+Thumbs.db
